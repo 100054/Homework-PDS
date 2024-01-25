@@ -1,0 +1,1257 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Ghana,GHA,2022,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,213726465.546279
+Ghana,GHA,2021,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,117635153.870768
+Ghana,GHA,2020,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,121816372.907272
+Ghana,GHA,2019,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,102528360.488028
+Ghana,GHA,2018,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,84097317.3264988
+Ghana,GHA,2022,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.59072669117784
+Ghana,GHA,2021,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.28230824612488
+Ghana,GHA,2020,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.60167814650786
+Ghana,GHA,2019,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.03305102199681
+Ghana,GHA,2018,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.11063014196318
+Ghana,GHA,2020,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,73.0574900997
+Ghana,GHA,2019,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,73.0574900997
+Ghana,GHA,2018,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,73.0574900997
+Ghana,GHA,2017,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,73.0574900997
+Ghana,GHA,2016,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,73.0574900997
+Ghana,GHA,2015,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,72.5681711535
+Ghana,GHA,2014,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,74.7823211727
+Ghana,GHA,2013,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,74.133258574
+Ghana,GHA,2012,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,73.3941467123
+Ghana,GHA,2011,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,73.1956754651
+Ghana,GHA,2010,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,72.8705366048
+Ghana,GHA,2009,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,72.3519217046
+Ghana,GHA,2008,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,71.8098415346
+Ghana,GHA,2007,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,71.2426666667
+Ghana,GHA,2006,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,70.6486132343
+Ghana,GHA,2005,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,70.0257241919
+Ghana,GHA,2004,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,69.3718477762
+Ghana,GHA,2003,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,68.6846126719
+Ghana,GHA,2002,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,67.9613992762
+Ghana,GHA,2001,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,67.1993063297
+Ghana,GHA,2000,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,66.3951120163
+Ghana,GHA,1999,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,66.2450483008
+Ghana,GHA,1998,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,66.0876993166
+Ghana,GHA,1997,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,65.9225213395
+Ghana,GHA,1996,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,65.7489151579
+Ghana,GHA,1995,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,65.56621881
+Ghana,GHA,1994,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,65.3736991485
+Ghana,GHA,1993,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,65.1705420076
+Ghana,GHA,1992,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,64.9558406932
+Ghana,GHA,1991,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,64.7285824543
+Ghana,GHA,1990,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,64.4876325088
+Ghana,GHA,1989,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,64.2317150924
+Ghana,GHA,1988,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,63.9593908629
+Ghana,GHA,1987,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,63.6690298145
+Ghana,GHA,1986,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,63.358778626
+Ghana,GHA,1985,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,63.0265210608
+Ghana,GHA,1984,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,62.6698296312
+Ghana,GHA,1983,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,62.2859061905
+Ghana,GHA,1982,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,61.8715083799
+Ghana,GHA,1981,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,61.4228578354
+Ghana,GHA,1980,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,60.9355246523
+Ghana,GHA,1979,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,60.4042806183
+Ghana,GHA,1978,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,59.822910902
+Ghana,GHA,1977,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,59.1839697982
+Ghana,GHA,1976,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,58.4784601283
+Ghana,GHA,1975,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,57.6954069299
+Ghana,GHA,1974,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,56.8212824011
+Ghana,GHA,1973,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,55.8392178164
+Ghana,GHA,1972,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,54.7279042841
+Ghana,GHA,1971,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,53.4600289196
+Ghana,GHA,1970,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,52
+Ghana,GHA,2020,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.4560972279
+Ghana,GHA,2019,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.4560972279
+Ghana,GHA,2018,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.4560972279
+Ghana,GHA,2017,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.4560972279
+Ghana,GHA,2016,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.4560972279
+Ghana,GHA,2015,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.8276125758
+Ghana,GHA,2014,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,18.237260737
+Ghana,GHA,2013,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,18.7646014391
+Ghana,GHA,2012,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,19.3842645382
+Ghana,GHA,2011,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,19.4019674686
+Ghana,GHA,2010,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,19.5491721524
+Ghana,GHA,2009,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,19.9000917525
+Ghana,GHA,2008,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.2668890742
+Ghana,GHA,2007,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.6506666667
+Ghana,GHA,2006,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,21.0526315789
+Ghana,GHA,2005,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,21.4741080416
+Ghana,GHA,2004,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,21.9165520403
+Ghana,GHA,2003,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,22.3815681204
+Ghana,GHA,2002,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,22.8709288299
+Ghana,GHA,2001,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,23.3865972996
+Ghana,GHA,2000,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,23.9307535642
+Ghana,GHA,1999,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,24.0461463618
+Ghana,GHA,1998,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,24.1671412301
+Ghana,GHA,1997,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,24.2941562705
+Ghana,GHA,1996,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,24.427652252
+Ghana,GHA,1995,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,24.5681381958
+Ghana,GHA,1994,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,24.7161778619
+Ghana,GHA,1993,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,24.8723973102
+Ghana,GHA,1992,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,25.037493751
+Ghana,GHA,1991,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,25.212245948
+Ghana,GHA,1990,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,25.3975265018
+Ghana,GHA,1989,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,25.5943164223
+Ghana,GHA,1988,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,25.8037225042
+Ghana,GHA,1987,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,26.0269981548
+Ghana,GHA,1986,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,26.2655685014
+Ghana,GHA,1985,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,26.5210608424
+Ghana,GHA,1984,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,26.7953418158
+Ghana,GHA,1983,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,27.0905630807
+Ghana,GHA,1982,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,27.4092178771
+Ghana,GHA,1981,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,27.7542116107
+Ghana,GHA,1980,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,28.1289506953
+Ghana,GHA,1979,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,28.5374554102
+Ghana,GHA,1978,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,28.9845047039
+Ghana,GHA,1977,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,29.4758240163
+Ghana,GHA,1976,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,30.0183318057
+Ghana,GHA,1975,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,30.620467365
+Ghana,GHA,1974,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,31.292633015
+Ghana,GHA,1973,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,32.0478001086
+Ghana,GHA,1972,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,32.9023543034
+Ghana,GHA,1971,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,33.8772980789
+Ghana,GHA,1970,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,35
+Ghana,GHA,2020,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.4864126724
+Ghana,GHA,2019,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.4864126724
+Ghana,GHA,2018,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.4864126724
+Ghana,GHA,2017,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.4864126724
+Ghana,GHA,2016,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.4864126724
+Ghana,GHA,2015,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.6042162707
+Ghana,GHA,2014,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.9804180903
+Ghana,GHA,2013,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,7.1021399869
+Ghana,GHA,2012,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,7.2215887495
+Ghana,GHA,2011,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,7.4023570663
+Ghana,GHA,2010,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,7.5802912428
+Ghana,GHA,2009,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,7.747986543
+Ghana,GHA,2008,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,7.9232693912
+Ghana,GHA,2007,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.1066666667
+Ghana,GHA,2006,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.2987551867
+Ghana,GHA,2005,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.5001677665
+Ghana,GHA,2004,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.7116001834
+Ghana,GHA,2003,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.9338192077
+Ghana,GHA,2002,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.1676718938
+Ghana,GHA,2001,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.4140963706
+Ghana,GHA,2000,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.6741344196
+Ghana,GHA,1999,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.7088053374
+Ghana,GHA,1998,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.7451594533
+Ghana,GHA,1997,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.78332239
+Ghana,GHA,1996,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.8234325902
+Ghana,GHA,1995,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.8656429942
+Ghana,GHA,1994,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.9101229896
+Ghana,GHA,1993,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.9570606822
+Ghana,GHA,1992,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.0066655557
+Ghana,GHA,1991,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.0591715976
+Ghana,GHA,1990,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.1148409894
+Ghana,GHA,1989,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.1739684853
+Ghana,GHA,1988,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.2368866328
+Ghana,GHA,1987,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.3039720307
+Ghana,GHA,1986,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.3756528726
+Ghana,GHA,1985,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.4524180967
+Ghana,GHA,1984,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.5348285529
+Ghana,GHA,1983,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.6235307288
+Ghana,GHA,1982,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.719273743
+Ghana,GHA,1981,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.8229305539
+Ghana,GHA,1980,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.9355246523
+Ghana,GHA,1979,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.0582639715
+Ghana,GHA,1978,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.192584394
+Ghana,GHA,1977,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.3402061856
+Ghana,GHA,1976,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.503208066
+Ghana,GHA,1975,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.6841257051
+Ghana,GHA,1974,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.8860845839
+Ghana,GHA,1973,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,12.112982075
+Ghana,GHA,1972,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,12.3697414126
+Ghana,GHA,1971,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,12.6626730014
+Ghana,GHA,1970,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,13
+Ghana,GHA,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4486
+Ghana,GHA,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4486
+Ghana,GHA,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4486
+Ghana,GHA,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4486
+Ghana,GHA,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4486
+Ghana,GHA,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.438475
+Ghana,GHA,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.36095
+Ghana,GHA,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.337625
+Ghana,GHA,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3155
+Ghana,GHA,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.283375
+Ghana,GHA,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.25325
+Ghana,GHA,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.226125
+Ghana,GHA,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.199
+Ghana,GHA,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.171875
+Ghana,GHA,2006,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.14475
+Ghana,GHA,2005,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.117625
+Ghana,GHA,2004,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.0905
+Ghana,GHA,2003,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.063375
+Ghana,GHA,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.03625
+Ghana,GHA,2001,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.009125
+Ghana,GHA,2000,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.982
+Ghana,GHA,1999,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.9592666667
+Ghana,GHA,1998,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.9365333333
+Ghana,GHA,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.9138
+Ghana,GHA,1996,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.8910666667
+Ghana,GHA,1995,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.8683333333
+Ghana,GHA,1994,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.8456
+Ghana,GHA,1993,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.8228666667
+Ghana,GHA,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.8001333333
+Ghana,GHA,1991,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7774
+Ghana,GHA,1990,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7546666667
+Ghana,GHA,1989,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7319333333
+Ghana,GHA,1988,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7092
+Ghana,GHA,1987,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6864666667
+Ghana,GHA,1986,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6637333333
+Ghana,GHA,1985,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.641
+Ghana,GHA,1984,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6182666667
+Ghana,GHA,1983,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5955333333
+Ghana,GHA,1982,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5728
+Ghana,GHA,1981,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5500666667
+Ghana,GHA,1980,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5273333333
+Ghana,GHA,1979,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5046
+Ghana,GHA,1978,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.4818666667
+Ghana,GHA,1977,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.4591333333
+Ghana,GHA,1976,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.4364
+Ghana,GHA,1975,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.4136666667
+Ghana,GHA,1974,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3909333333
+Ghana,GHA,1973,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3682
+Ghana,GHA,1972,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3454666667
+Ghana,GHA,1971,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3227333333
+Ghana,GHA,1970,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3
+Ghana,GHA,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.78085808580858
+Ghana,GHA,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.78085808580858
+Ghana,GHA,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.78085808580858
+Ghana,GHA,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.78085808580858
+Ghana,GHA,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.78085808580858
+Ghana,GHA,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.74744224422442
+Ghana,GHA,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.49158415841584
+Ghana,GHA,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.41460396039604
+Ghana,GHA,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.34158415841584
+Ghana,GHA,2011,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.23556105610561
+Ghana,GHA,2010,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.13613861386139
+Ghana,GHA,2009,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.04661716171617
+Ghana,GHA,2008,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.95709570957096
+Ghana,GHA,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.86757425742574
+Ghana,GHA,2006,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.77805280528053
+Ghana,GHA,2005,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.68853135313531
+Ghana,GHA,2004,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.5990099009901
+Ghana,GHA,2003,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.50948844884488
+Ghana,GHA,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.41996699669967
+Ghana,GHA,2001,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.33044554455446
+Ghana,GHA,2000,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.24092409240924
+Ghana,GHA,1999,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.16589658976898
+Ghana,GHA,1998,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.09086908679868
+Ghana,GHA,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.01584158415842
+Ghana,GHA,1996,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.94081408151815
+Ghana,GHA,1995,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.86578657854785
+Ghana,GHA,1994,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.79075907590759
+Ghana,GHA,1993,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.71573157326733
+Ghana,GHA,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.64070407029703
+Ghana,GHA,1991,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.56567656765677
+Ghana,GHA,1990,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.4906490650165
+Ghana,GHA,1989,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.4156215620462
+Ghana,GHA,1988,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.34059405940594
+Ghana,GHA,1987,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.26556655676568
+Ghana,GHA,1986,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.19053905379538
+Ghana,GHA,1985,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.11551155115512
+Ghana,GHA,1984,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.04048404851485
+Ghana,GHA,1983,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.96545654554455
+Ghana,GHA,1982,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.89042904290429
+Ghana,GHA,1981,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.81540154026403
+Ghana,GHA,1980,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.74037403729373
+Ghana,GHA,1979,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.66534653465347
+Ghana,GHA,1978,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.5903190320132
+Ghana,GHA,1977,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.5152915290429
+Ghana,GHA,1976,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.44026402640264
+Ghana,GHA,1975,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.36523652376238
+Ghana,GHA,1974,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.29020902079208
+Ghana,GHA,1973,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.21518151815182
+Ghana,GHA,1972,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.14015401551155
+Ghana,GHA,1971,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.06512651254125
+Ghana,GHA,1970,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.99009900990099
+Ghana,GHA,2020,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2019,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2018,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2017,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2016,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2015,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2014,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2013,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2012,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2011,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2010,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2009,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2008,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2007,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2006,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2005,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2004,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2003,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2002,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2001,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2000,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1999,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1998,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1997,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1996,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1995,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1994,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1993,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1992,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1991,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1990,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1989,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1988,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1987,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1986,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1985,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1984,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1983,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1982,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1981,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1980,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1979,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1978,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1977,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1976,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1975,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1974,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1973,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1972,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1971,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1970,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1969,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1968,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1967,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1966,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1965,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1964,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1963,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1962,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,1961,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,30.3
+Ghana,GHA,2020,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,941.566887249168
+Ghana,GHA,2019,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,961.224581082149
+Ghana,GHA,2018,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,981.515090664946
+Ghana,GHA,2017,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1002.57220984981
+Ghana,GHA,2016,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1025.23141892401
+Ghana,GHA,2015,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1049.49825151167
+Ghana,GHA,2014,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1074.60686944037
+Ghana,GHA,2013,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1100.79356316958
+Ghana,GHA,2012,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1128.12347791756
+Ghana,GHA,2011,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1156.22636866961
+Ghana,GHA,2010,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1184.76375048344
+Ghana,GHA,2009,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1214.39176887664
+Ghana,GHA,2008,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1245.57640528047
+Ghana,GHA,2007,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1278.03235319921
+Ghana,GHA,2006,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1311.76860782734
+Ghana,GHA,2005,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1346.84917969551
+Ghana,GHA,2004,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1383.15465531512
+Ghana,GHA,2003,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1420.56682585454
+Ghana,GHA,2002,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1459.65527278067
+Ghana,GHA,2001,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1500.32851252529
+Ghana,GHA,2000,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1540.76921097666
+Ghana,GHA,1999,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1580.03494953874
+Ghana,GHA,1998,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1619.04743584565
+Ghana,GHA,1997,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1658.63442383529
+Ghana,GHA,1996,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1698.04881301905
+Ghana,GHA,1995,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1737.49750127216
+Ghana,GHA,1994,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1778.07990139461
+Ghana,GHA,1993,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1820.51598950782
+Ghana,GHA,1992,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1865.58571879971
+Ghana,GHA,1991,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1912.45971290003
+Ghana,GHA,1990,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1961.54821699151
+Ghana,GHA,1989,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2012.9617463526
+Ghana,GHA,1988,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2065.20358920115
+Ghana,GHA,1987,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2117.2835322159
+Ghana,GHA,1986,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2168.67231876592
+Ghana,GHA,1985,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2219.5455821044
+Ghana,GHA,1984,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2270.94094226961
+Ghana,GHA,1983,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2333.6178601402
+Ghana,GHA,1982,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2407.63272015775
+Ghana,GHA,1981,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2480.97103404908
+Ghana,GHA,1980,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2553.67651037324
+Ghana,GHA,1979,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2631.19617391078
+Ghana,GHA,1978,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2714.26818223758
+Ghana,GHA,1977,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2798.94796506322
+Ghana,GHA,1976,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2883.241288472
+Ghana,GHA,1975,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2967.72292790255
+Ghana,GHA,1974,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3054.74988907629
+Ghana,GHA,1973,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3144.06772010575
+Ghana,GHA,1972,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3235.12228121605
+Ghana,GHA,1971,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3326.42505476525
+Ghana,GHA,1970,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3419.13326664331
+Ghana,GHA,1969,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3511.06710367671
+Ghana,GHA,1968,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3599.36480120578
+Ghana,GHA,1967,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3687.88739553116
+Ghana,GHA,1966,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3778.21597878613
+Ghana,GHA,1965,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3870.85598039584
+Ghana,GHA,1964,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3965.86684425373
+Ghana,GHA,1963,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,4062.6190377546
+Ghana,GHA,1962,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,4161.40653892934
+Ghana,GHA,1961,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,4262.18545458177
+Ghana,GHA,2019,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,1533000000
+Ghana,GHA,2016,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,752000000
+Ghana,GHA,2014,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,900000000
+Ghana,GHA,2013,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,440000000
+Ghana,GHA,2012,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,440000000
+Ghana,GHA,2011,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,360000000
+Ghana,GHA,2009,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,140000000
+Ghana,GHA,2007,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,300000000
+Ghana,GHA,2005,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,590000000
+Ghana,GHA,1999,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,110000000
+Ghana,GHA,2018,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,42000000
+Ghana,GHA,2012,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,700000000
+Ghana,GHA,2008,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,900000000
+Ghana,GHA,2007,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,120000000
+Ghana,GHA,1997,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,10100000
+Ghana,GHA,1996,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,420000000
+Ghana,GHA,2017,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,550000000
+Ghana,GHA,2016,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,1500000000
+Ghana,GHA,2000,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,10000000
+Ghana,GHA,2012,Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD,126000000
+Ghana,GHA,2019,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,1533000000
+Ghana,GHA,2016,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,752000000
+Ghana,GHA,2014,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,900000000
+Ghana,GHA,2013,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,440000000
+Ghana,GHA,2012,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,440000000
+Ghana,GHA,2011,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,360000000
+Ghana,GHA,2009,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,140000000
+Ghana,GHA,2007,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,300000000
+Ghana,GHA,2005,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,590000000
+Ghana,GHA,1999,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,110000000
+Ghana,GHA,2018,Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD,42000000
+Ghana,GHA,2012,Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD,700000000
+Ghana,GHA,1997,Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD,10100000
+Ghana,GHA,1996,Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD,32000000
+Ghana,GHA,2017,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,550000000
+Ghana,GHA,2016,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,1500000000
+Ghana,GHA,2000,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,10000000
+Ghana,GHA,2012,Public private partnerships investment in water and sanitation (current US$),IE.PPN.WATR.CD,126000000
+Ghana,GHA,2020,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,128
+Ghana,GHA,2018,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,92
+Ghana,GHA,2017,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,266
+Ghana,GHA,2016,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,156
+Ghana,GHA,2020,"Industrial design applications, resident, by count",IP.IDS.RSCT,924
+Ghana,GHA,2018,"Industrial design applications, resident, by count",IP.IDS.RSCT,796
+Ghana,GHA,2017,"Industrial design applications, resident, by count",IP.IDS.RSCT,735
+Ghana,GHA,2016,"Industrial design applications, resident, by count",IP.IDS.RSCT,453
+Ghana,GHA,2020,"Trademark applications, nonresident, by count",IP.TMK.NRCT,4489
+Ghana,GHA,2018,"Trademark applications, nonresident, by count",IP.TMK.NRCT,4514
+Ghana,GHA,2017,"Trademark applications, nonresident, by count",IP.TMK.NRCT,4152
+Ghana,GHA,2016,"Trademark applications, nonresident, by count",IP.TMK.NRCT,4627
+Ghana,GHA,2015,"Trademark applications, nonresident, by count",IP.TMK.NRCT,4238
+Ghana,GHA,2020,"Trademark applications, resident, by count",IP.TMK.RSCT,858
+Ghana,GHA,2018,"Trademark applications, resident, by count",IP.TMK.RSCT,833
+Ghana,GHA,2017,"Trademark applications, resident, by count",IP.TMK.RSCT,928
+Ghana,GHA,2016,"Trademark applications, resident, by count",IP.TMK.RSCT,900
+Ghana,GHA,2015,"Trademark applications, resident, by count",IP.TMK.RSCT,883
+Ghana,GHA,2021,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,13321
+Ghana,GHA,2020,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,8941
+Ghana,GHA,2019,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,15617
+Ghana,GHA,2018,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,11635
+Ghana,GHA,2017,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,21224
+Ghana,GHA,2016,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,21628
+Ghana,GHA,2015,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,20539
+Ghana,GHA,2014,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,16764
+Ghana,GHA,2013,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,16560
+Ghana,GHA,2012,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,14902
+Ghana,GHA,2011,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,10683
+Ghana,GHA,2010,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5645.66956713294
+Ghana,GHA,2004,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3333
+Ghana,GHA,2003,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3333
+Ghana,GHA,2002,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,4382
+Ghana,GHA,2001,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5892
+Ghana,GHA,2000,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,4873
+Ghana,GHA,1999,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5000
+Ghana,GHA,1998,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3500
+Ghana,GHA,1997,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3500
+Ghana,GHA,1996,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3300
+Ghana,GHA,1995,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3000
+Ghana,GHA,1994,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3400
+Ghana,GHA,1993,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3200
+Ghana,GHA,1992,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,15100
+Ghana,GHA,1991,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,19000
+Ghana,GHA,1990,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,12600
+Ghana,GHA,1989,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,11800
+Ghana,GHA,1988,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,12300
+Ghana,GHA,1987,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,7500
+Ghana,GHA,1986,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5500
+Ghana,GHA,1985,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5800
+Ghana,GHA,1984,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,4400
+Ghana,GHA,1983,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,4500
+Ghana,GHA,1982,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5300
+Ghana,GHA,1981,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5100
+Ghana,GHA,1980,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5600
+Ghana,GHA,1979,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,7000
+Ghana,GHA,1978,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,7000
+Ghana,GHA,1977,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,6000
+Ghana,GHA,1976,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,6100
+Ghana,GHA,1975,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5900
+Ghana,GHA,1974,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5700
+Ghana,GHA,1973,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5600
+Ghana,GHA,1972,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5700
+Ghana,GHA,1971,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5400
+Ghana,GHA,1970,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5000
+Ghana,GHA,2019,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0
+Ghana,GHA,2018,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0
+Ghana,GHA,2017,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.262714068
+Ghana,GHA,2016,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.846429394
+Ghana,GHA,2015,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.844630332
+Ghana,GHA,2014,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.332792
+Ghana,GHA,2013,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.31802
+Ghana,GHA,2012,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.41801639475519
+Ghana,GHA,2011,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.56603511599799
+Ghana,GHA,2010,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,5.22980484930983
+Ghana,GHA,2004,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,6.652
+Ghana,GHA,2003,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,16.63
+Ghana,GHA,2002,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,18.901
+Ghana,GHA,2001,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,32.97
+Ghana,GHA,2000,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,39.949
+Ghana,GHA,1999,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,31.3999996185
+Ghana,GHA,1998,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,29.8999996185
+Ghana,GHA,1997,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,32.7999992371
+Ghana,GHA,1996,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,29.5
+Ghana,GHA,1995,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,24.1000003815
+Ghana,GHA,1994,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,23.7999992371
+Ghana,GHA,1993,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,22.5
+Ghana,GHA,1992,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,20.1000003815
+Ghana,GHA,1991,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,19.1000003815
+Ghana,GHA,1990,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,15.6999998093
+Ghana,GHA,1989,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,13.6000003815
+Ghana,GHA,1988,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,13.3999996185
+Ghana,GHA,1987,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,12.1000003815
+Ghana,GHA,1986,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,10.1000003815
+Ghana,GHA,1985,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,9.3999996185
+Ghana,GHA,1984,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,7.5
+Ghana,GHA,1983,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,6.5999999046
+Ghana,GHA,1982,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.5999999046
+Ghana,GHA,1981,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,6.5
+Ghana,GHA,1980,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.5999999046
+Ghana,GHA,1979,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.7999999523
+Ghana,GHA,1978,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.5
+Ghana,GHA,1977,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.7000000477
+Ghana,GHA,1976,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.7999999523
+Ghana,GHA,1975,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.9000000954
+Ghana,GHA,1974,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.0999999046
+Ghana,GHA,1973,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.5
+Ghana,GHA,1972,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.4000000954
+Ghana,GHA,1971,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.0999999046
+Ghana,GHA,1970,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.0999999046
+Ghana,GHA,2021,"Air transport, passengers carried",IS.AIR.PSGR,559393
+Ghana,GHA,2020,"Air transport, passengers carried",IS.AIR.PSGR,321437
+Ghana,GHA,2019,"Air transport, passengers carried",IS.AIR.PSGR,597343
+Ghana,GHA,2018,"Air transport, passengers carried",IS.AIR.PSGR,467624
+Ghana,GHA,2017,"Air transport, passengers carried",IS.AIR.PSGR,681691
+Ghana,GHA,2016,"Air transport, passengers carried",IS.AIR.PSGR,359516
+Ghana,GHA,2015,"Air transport, passengers carried",IS.AIR.PSGR,390457
+Ghana,GHA,2014,"Air transport, passengers carried",IS.AIR.PSGR,407544
+Ghana,GHA,2013,"Air transport, passengers carried",IS.AIR.PSGR,396372
+Ghana,GHA,2012,"Air transport, passengers carried",IS.AIR.PSGR,691271.96142731
+Ghana,GHA,2011,"Air transport, passengers carried",IS.AIR.PSGR,491583.034446243
+Ghana,GHA,2010,"Air transport, passengers carried",IS.AIR.PSGR,169030.949606142
+Ghana,GHA,2004,"Air transport, passengers carried",IS.AIR.PSGR,96444
+Ghana,GHA,2003,"Air transport, passengers carried",IS.AIR.PSGR,241111
+Ghana,GHA,2002,"Air transport, passengers carried",IS.AIR.PSGR,255630
+Ghana,GHA,2001,"Air transport, passengers carried",IS.AIR.PSGR,301135
+Ghana,GHA,2000,"Air transport, passengers carried",IS.AIR.PSGR,314335
+Ghana,GHA,1999,"Air transport, passengers carried",IS.AIR.PSGR,304100
+Ghana,GHA,1998,"Air transport, passengers carried",IS.AIR.PSGR,209800
+Ghana,GHA,1997,"Air transport, passengers carried",IS.AIR.PSGR,210600
+Ghana,GHA,1996,"Air transport, passengers carried",IS.AIR.PSGR,197200
+Ghana,GHA,1995,"Air transport, passengers carried",IS.AIR.PSGR,185900
+Ghana,GHA,1994,"Air transport, passengers carried",IS.AIR.PSGR,182500
+Ghana,GHA,1993,"Air transport, passengers carried",IS.AIR.PSGR,152400
+Ghana,GHA,1992,"Air transport, passengers carried",IS.AIR.PSGR,206000
+Ghana,GHA,1991,"Air transport, passengers carried",IS.AIR.PSGR,191700
+Ghana,GHA,1990,"Air transport, passengers carried",IS.AIR.PSGR,188100
+Ghana,GHA,1989,"Air transport, passengers carried",IS.AIR.PSGR,231900
+Ghana,GHA,1988,"Air transport, passengers carried",IS.AIR.PSGR,247800
+Ghana,GHA,1987,"Air transport, passengers carried",IS.AIR.PSGR,224400
+Ghana,GHA,1986,"Air transport, passengers carried",IS.AIR.PSGR,247900
+Ghana,GHA,1985,"Air transport, passengers carried",IS.AIR.PSGR,252600
+Ghana,GHA,1984,"Air transport, passengers carried",IS.AIR.PSGR,261000
+Ghana,GHA,1983,"Air transport, passengers carried",IS.AIR.PSGR,271400
+Ghana,GHA,1982,"Air transport, passengers carried",IS.AIR.PSGR,230000
+Ghana,GHA,1981,"Air transport, passengers carried",IS.AIR.PSGR,288800
+Ghana,GHA,1980,"Air transport, passengers carried",IS.AIR.PSGR,279000
+Ghana,GHA,1979,"Air transport, passengers carried",IS.AIR.PSGR,330400
+Ghana,GHA,1978,"Air transport, passengers carried",IS.AIR.PSGR,309700
+Ghana,GHA,1977,"Air transport, passengers carried",IS.AIR.PSGR,248800
+Ghana,GHA,1976,"Air transport, passengers carried",IS.AIR.PSGR,233500
+Ghana,GHA,1975,"Air transport, passengers carried",IS.AIR.PSGR,153800
+Ghana,GHA,1974,"Air transport, passengers carried",IS.AIR.PSGR,148200
+Ghana,GHA,1973,"Air transport, passengers carried",IS.AIR.PSGR,135600
+Ghana,GHA,1972,"Air transport, passengers carried",IS.AIR.PSGR,131700
+Ghana,GHA,1971,"Air transport, passengers carried",IS.AIR.PSGR,135600
+Ghana,GHA,1970,"Air transport, passengers carried",IS.AIR.PSGR,116700
+Ghana,GHA,2006,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,181
+Ghana,GHA,2003,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,242
+Ghana,GHA,2000,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,165
+Ghana,GHA,1999,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,151
+Ghana,GHA,1998,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,141
+Ghana,GHA,1997,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,155
+Ghana,GHA,1996,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,151
+Ghana,GHA,1995,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,157
+Ghana,GHA,2006,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,85
+Ghana,GHA,2003,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,85
+Ghana,GHA,2000,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,83
+Ghana,GHA,1999,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,128.79
+Ghana,GHA,1998,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,191.87
+Ghana,GHA,1997,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,176.77
+Ghana,GHA,1996,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,211
+Ghana,GHA,1995,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,233
+Ghana,GHA,2006,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,2003,Rail lines (total route-km),IS.RRS.TOTL.KM,977
+Ghana,GHA,2002,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,2001,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,2000,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,1999,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,1998,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,1997,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,1996,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,1995,Rail lines (total route-km),IS.RRS.TOTL.KM,953
+Ghana,GHA,2021,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,37.1852140752
+Ghana,GHA,2020,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,39.9862068986
+Ghana,GHA,2019,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,36.6509751579
+Ghana,GHA,2018,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,20.084039529
+Ghana,GHA,2017,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,19.5846188798
+Ghana,GHA,2016,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,20.6238379517
+Ghana,GHA,2015,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,22.7546413984
+Ghana,GHA,2014,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,21.714283643
+Ghana,GHA,2013,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,21.4302034565
+Ghana,GHA,2012,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,19.9416901125
+Ghana,GHA,2011,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,20.5144801356
+Ghana,GHA,2010,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,20.349238435
+Ghana,GHA,2009,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,19.8675497977
+Ghana,GHA,2008,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,18.8724203544
+Ghana,GHA,2007,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,16.6995783085
+Ghana,GHA,2006,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,16.667048508
+Ghana,GHA,2021,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1604724
+Ghana,GHA,2020,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1324504
+Ghana,GHA,2019,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1079247
+Ghana,GHA,2018,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1056785
+Ghana,GHA,2017,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1009755
+Ghana,GHA,2016,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,942463
+Ghana,GHA,2015,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,840595
+Ghana,GHA,2014,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,793582
+Ghana,GHA,2013,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,894362
+Ghana,GHA,2012,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,882877
+Ghana,GHA,2011,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,813494
+Ghana,GHA,2010,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,643188
+Ghana,GHA,2009,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,557323.21967184
+Ghana,GHA,2008,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,612847.1736
+Ghana,GHA,2007,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,544294
+Ghana,GHA,2022,Mobile cellular subscriptions,IT.CEL.SETS,40045308
+Ghana,GHA,2021,Mobile cellular subscriptions,IT.CEL.SETS,40454073
+Ghana,GHA,2020,Mobile cellular subscriptions,IT.CEL.SETS,40461609
+Ghana,GHA,2019,Mobile cellular subscriptions,IT.CEL.SETS,40857077
+Ghana,GHA,2018,Mobile cellular subscriptions,IT.CEL.SETS,40934875
+Ghana,GHA,2017,Mobile cellular subscriptions,IT.CEL.SETS,36751761
+Ghana,GHA,2016,Mobile cellular subscriptions,IT.CEL.SETS,38305078
+Ghana,GHA,2015,Mobile cellular subscriptions,IT.CEL.SETS,35008387
+Ghana,GHA,2014,Mobile cellular subscriptions,IT.CEL.SETS,30360771
+Ghana,GHA,2013,Mobile cellular subscriptions,IT.CEL.SETS,28026482
+Ghana,GHA,2012,Mobile cellular subscriptions,IT.CEL.SETS,25618427
+Ghana,GHA,2011,Mobile cellular subscriptions,IT.CEL.SETS,21165843
+Ghana,GHA,2010,Mobile cellular subscriptions,IT.CEL.SETS,17436949
+Ghana,GHA,2009,Mobile cellular subscriptions,IT.CEL.SETS,15108916
+Ghana,GHA,2008,Mobile cellular subscriptions,IT.CEL.SETS,11570430
+Ghana,GHA,2007,Mobile cellular subscriptions,IT.CEL.SETS,7604053
+Ghana,GHA,2006,Mobile cellular subscriptions,IT.CEL.SETS,5207242
+Ghana,GHA,2005,Mobile cellular subscriptions,IT.CEL.SETS,2874560
+Ghana,GHA,2004,Mobile cellular subscriptions,IT.CEL.SETS,1695000
+Ghana,GHA,2003,Mobile cellular subscriptions,IT.CEL.SETS,795529
+Ghana,GHA,2002,Mobile cellular subscriptions,IT.CEL.SETS,386775
+Ghana,GHA,2001,Mobile cellular subscriptions,IT.CEL.SETS,243797
+Ghana,GHA,2000,Mobile cellular subscriptions,IT.CEL.SETS,130045
+Ghana,GHA,1999,Mobile cellular subscriptions,IT.CEL.SETS,70026
+Ghana,GHA,1998,Mobile cellular subscriptions,IT.CEL.SETS,41753
+Ghana,GHA,1997,Mobile cellular subscriptions,IT.CEL.SETS,21866
+Ghana,GHA,1996,Mobile cellular subscriptions,IT.CEL.SETS,12766
+Ghana,GHA,1995,Mobile cellular subscriptions,IT.CEL.SETS,6200
+Ghana,GHA,1994,Mobile cellular subscriptions,IT.CEL.SETS,3336
+Ghana,GHA,1993,Mobile cellular subscriptions,IT.CEL.SETS,1742
+Ghana,GHA,1992,Mobile cellular subscriptions,IT.CEL.SETS,400
+Ghana,GHA,1991,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1990,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1989,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1988,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1987,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1986,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1985,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1984,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1983,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1982,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1981,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1980,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1979,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1978,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1977,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1976,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1975,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1970,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1965,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,1960,Mobile cellular subscriptions,IT.CEL.SETS,0
+Ghana,GHA,2022,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,119.6243981
+Ghana,GHA,2021,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,123.2115092
+Ghana,GHA,2020,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,125.7336966
+Ghana,GHA,2019,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,129.6132895
+Ghana,GHA,2018,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,132.601312
+Ghana,GHA,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,121.6049315
+Ghana,GHA,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,129.6091402
+Ghana,GHA,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,121.2582209
+Ghana,GHA,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,107.6762148
+Ghana,GHA,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,101.8197062
+Ghana,GHA,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,95.38200979
+Ghana,GHA,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,80.76734585
+Ghana,GHA,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,68.18041285
+Ghana,GHA,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,60.55492814
+Ghana,GHA,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,47.56387659
+Ghana,GHA,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,32.07335231
+Ghana,GHA,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,22.5435531
+Ghana,GHA,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,12.77755372
+Ghana,GHA,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,7.737449309
+Ghana,GHA,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,3.729709922
+Ghana,GHA,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.863228278
+Ghana,GHA,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.207180166
+Ghana,GHA,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.661284924
+Ghana,GHA,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.365160156
+Ghana,GHA,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.223102599
+Ghana,GHA,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.119695381
+Ghana,GHA,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.071542215
+Ghana,GHA,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.035552754
+Ghana,GHA,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.019576484
+Ghana,GHA,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.010466464
+Ghana,GHA,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.002462819
+Ghana,GHA,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Ghana,GHA,2022,Fixed telephone subscriptions,IT.MLT.MAIN,330016
+Ghana,GHA,2021,Fixed telephone subscriptions,IT.MLT.MAIN,315271
+Ghana,GHA,2020,Fixed telephone subscriptions,IT.MLT.MAIN,307668
+Ghana,GHA,2019,Fixed telephone subscriptions,IT.MLT.MAIN,288531
+Ghana,GHA,2018,Fixed telephone subscriptions,IT.MLT.MAIN,278379
+Ghana,GHA,2017,Fixed telephone subscriptions,IT.MLT.MAIN,301551
+Ghana,GHA,2016,Fixed telephone subscriptions,IT.MLT.MAIN,251490
+Ghana,GHA,2015,Fixed telephone subscriptions,IT.MLT.MAIN,275570
+Ghana,GHA,2014,Fixed telephone subscriptions,IT.MLT.MAIN,260407
+Ghana,GHA,2013,Fixed telephone subscriptions,IT.MLT.MAIN,270422
+Ghana,GHA,2012,Fixed telephone subscriptions,IT.MLT.MAIN,284981
+Ghana,GHA,2011,Fixed telephone subscriptions,IT.MLT.MAIN,284721
+Ghana,GHA,2010,Fixed telephone subscriptions,IT.MLT.MAIN,277897
+Ghana,GHA,2009,Fixed telephone subscriptions,IT.MLT.MAIN,267389
+Ghana,GHA,2008,Fixed telephone subscriptions,IT.MLT.MAIN,143900
+Ghana,GHA,2007,Fixed telephone subscriptions,IT.MLT.MAIN,376509
+Ghana,GHA,2006,Fixed telephone subscriptions,IT.MLT.MAIN,356355
+Ghana,GHA,2005,Fixed telephone subscriptions,IT.MLT.MAIN,321526
+Ghana,GHA,2004,Fixed telephone subscriptions,IT.MLT.MAIN,313326
+Ghana,GHA,2003,Fixed telephone subscriptions,IT.MLT.MAIN,291030
+Ghana,GHA,2002,Fixed telephone subscriptions,IT.MLT.MAIN,275039
+Ghana,GHA,2001,Fixed telephone subscriptions,IT.MLT.MAIN,244632
+Ghana,GHA,2000,Fixed telephone subscriptions,IT.MLT.MAIN,212548
+Ghana,GHA,1999,Fixed telephone subscriptions,IT.MLT.MAIN,160698
+Ghana,GHA,1998,Fixed telephone subscriptions,IT.MLT.MAIN,133426
+Ghana,GHA,1997,Fixed telephone subscriptions,IT.MLT.MAIN,105534
+Ghana,GHA,1996,Fixed telephone subscriptions,IT.MLT.MAIN,77886
+Ghana,GHA,1995,Fixed telephone subscriptions,IT.MLT.MAIN,63067
+Ghana,GHA,1994,Fixed telephone subscriptions,IT.MLT.MAIN,50007
+Ghana,GHA,1993,Fixed telephone subscriptions,IT.MLT.MAIN,48681
+Ghana,GHA,1992,Fixed telephone subscriptions,IT.MLT.MAIN,47761
+Ghana,GHA,1991,Fixed telephone subscriptions,IT.MLT.MAIN,46613
+Ghana,GHA,1990,Fixed telephone subscriptions,IT.MLT.MAIN,44243
+Ghana,GHA,1989,Fixed telephone subscriptions,IT.MLT.MAIN,43021
+Ghana,GHA,1988,Fixed telephone subscriptions,IT.MLT.MAIN,40442
+Ghana,GHA,1987,Fixed telephone subscriptions,IT.MLT.MAIN,39610
+Ghana,GHA,1986,Fixed telephone subscriptions,IT.MLT.MAIN,38472
+Ghana,GHA,1985,Fixed telephone subscriptions,IT.MLT.MAIN,38240
+Ghana,GHA,1984,Fixed telephone subscriptions,IT.MLT.MAIN,38104
+Ghana,GHA,1983,Fixed telephone subscriptions,IT.MLT.MAIN,37129
+Ghana,GHA,1982,Fixed telephone subscriptions,IT.MLT.MAIN,37151
+Ghana,GHA,1981,Fixed telephone subscriptions,IT.MLT.MAIN,37103
+Ghana,GHA,1980,Fixed telephone subscriptions,IT.MLT.MAIN,37694
+Ghana,GHA,1979,Fixed telephone subscriptions,IT.MLT.MAIN,36406
+Ghana,GHA,1978,Fixed telephone subscriptions,IT.MLT.MAIN,35396
+Ghana,GHA,1977,Fixed telephone subscriptions,IT.MLT.MAIN,33839
+Ghana,GHA,1976,Fixed telephone subscriptions,IT.MLT.MAIN,32979
+Ghana,GHA,1975,Fixed telephone subscriptions,IT.MLT.MAIN,31259
+Ghana,GHA,1974,Fixed telephone subscriptions,IT.MLT.MAIN,23400
+Ghana,GHA,1973,Fixed telephone subscriptions,IT.MLT.MAIN,23400
+Ghana,GHA,1972,Fixed telephone subscriptions,IT.MLT.MAIN,23400
+Ghana,GHA,1971,Fixed telephone subscriptions,IT.MLT.MAIN,23400
+Ghana,GHA,1970,Fixed telephone subscriptions,IT.MLT.MAIN,23400
+Ghana,GHA,1969,Fixed telephone subscriptions,IT.MLT.MAIN,17300
+Ghana,GHA,1968,Fixed telephone subscriptions,IT.MLT.MAIN,17300
+Ghana,GHA,1967,Fixed telephone subscriptions,IT.MLT.MAIN,17300
+Ghana,GHA,1966,Fixed telephone subscriptions,IT.MLT.MAIN,17300
+Ghana,GHA,1965,Fixed telephone subscriptions,IT.MLT.MAIN,17300
+Ghana,GHA,2022,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.985832482
+Ghana,GHA,2021,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.960225086
+Ghana,GHA,2020,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.956072581
+Ghana,GHA,2019,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.915323728
+Ghana,GHA,2018,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.901759701
+Ghana,GHA,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.997777731
+Ghana,GHA,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.850942078
+Ghana,GHA,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.954489218
+Ghana,GHA,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.923548353
+Ghana,GHA,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.982438274
+Ghana,GHA,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.061035501
+Ghana,GHA,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.08647501
+Ghana,GHA,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.086608224
+Ghana,GHA,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.071666669
+Ghana,GHA,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.591546022
+Ghana,GHA,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.588088064
+Ghana,GHA,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.542756773
+Ghana,GHA,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.429198117
+Ghana,GHA,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.43029147
+Ghana,GHA,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.364447404
+Ghana,GHA,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.324957513
+Ghana,GHA,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.211314735
+Ghana,GHA,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.080816549
+Ghana,GHA,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.837981704
+Ghana,GHA,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.712947271
+Ghana,GHA,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.577697443
+Ghana,GHA,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.436482607
+Ghana,GHA,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.361646056
+Ghana,GHA,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.293453603
+Ghana,GHA,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.29249021
+Ghana,GHA,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.294066797
+Ghana,GHA,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.294209502
+Ghana,GHA,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.286418408
+Ghana,GHA,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.28580737
+Ghana,GHA,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.275646744
+Ghana,GHA,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.276784161
+Ghana,GHA,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.275356968
+Ghana,GHA,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.280116887
+Ghana,GHA,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.285583939
+Ghana,GHA,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.285956758
+Ghana,GHA,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.295201199
+Ghana,GHA,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.303800225
+Ghana,GHA,1980,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.3176841
+Ghana,GHA,1979,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.316142996
+Ghana,GHA,1978,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.317076688
+Ghana,GHA,1977,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.312586139
+Ghana,GHA,1976,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.313816549
+Ghana,GHA,1975,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.306165185
+Ghana,GHA,1974,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.267873
+Ghana,GHA,1973,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.267873
+Ghana,GHA,1972,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.267873
+Ghana,GHA,1971,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.267873
+Ghana,GHA,1970,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.264051906
+Ghana,GHA,1969,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.223529
+Ghana,GHA,1968,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.223529
+Ghana,GHA,1967,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.223529
+Ghana,GHA,1966,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.223529
+Ghana,GHA,1965,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.221009269
+Ghana,GHA,2022,Fixed broadband subscriptions,IT.NET.BBND,207164
+Ghana,GHA,2021,Fixed broadband subscriptions,IT.NET.BBND,114543
+Ghana,GHA,2020,Fixed broadband subscriptions,IT.NET.BBND,78371
+Ghana,GHA,2019,Fixed broadband subscriptions,IT.NET.BBND,58518
+Ghana,GHA,2018,Fixed broadband subscriptions,IT.NET.BBND,61268
+Ghana,GHA,2017,Fixed broadband subscriptions,IT.NET.BBND,56810
+Ghana,GHA,2016,Fixed broadband subscriptions,IT.NET.BBND,86596
+Ghana,GHA,2015,Fixed broadband subscriptions,IT.NET.BBND,73132
+Ghana,GHA,2014,Fixed broadband subscriptions,IT.NET.BBND,70170
+Ghana,GHA,2013,Fixed broadband subscriptions,IT.NET.BBND,68795
+Ghana,GHA,2012,Fixed broadband subscriptions,IT.NET.BBND,68132
+Ghana,GHA,2011,Fixed broadband subscriptions,IT.NET.BBND,65149
+Ghana,GHA,2010,Fixed broadband subscriptions,IT.NET.BBND,52085
+Ghana,GHA,2009,Fixed broadband subscriptions,IT.NET.BBND,28401
+Ghana,GHA,2008,Fixed broadband subscriptions,IT.NET.BBND,22980
+Ghana,GHA,2007,Fixed broadband subscriptions,IT.NET.BBND,16197
+Ghana,GHA,2006,Fixed broadband subscriptions,IT.NET.BBND,12749
+Ghana,GHA,2005,Fixed broadband subscriptions,IT.NET.BBND,1904
+Ghana,GHA,2004,Fixed broadband subscriptions,IT.NET.BBND,900
+Ghana,GHA,2022,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.618845754
+Ghana,GHA,2021,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.348865141
+Ghana,GHA,2020,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.243536423
+Ghana,GHA,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.185640066
+Ghana,GHA,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.198466886
+Ghana,GHA,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.187974017
+Ghana,GHA,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.293006402
+Ghana,GHA,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.253306621
+Ghana,GHA,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.248861927
+Ghana,GHA,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.249931001
+Ghana,GHA,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.253667686
+Ghana,GHA,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.248603933
+Ghana,GHA,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.203658152
+Ghana,GHA,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.113828187
+Ghana,GHA,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.094466488
+Ghana,GHA,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.068317789
+Ghana,GHA,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.055193855
+Ghana,GHA,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.008463369
+Ghana,GHA,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.00410838
+Ghana,GHA,2020,Secure Internet servers,IT.NET.SECR,1846
+Ghana,GHA,2019,Secure Internet servers,IT.NET.SECR,1369
+Ghana,GHA,2018,Secure Internet servers,IT.NET.SECR,649
+Ghana,GHA,2017,Secure Internet servers,IT.NET.SECR,2744
+Ghana,GHA,2016,Secure Internet servers,IT.NET.SECR,2761
+Ghana,GHA,2015,Secure Internet servers,IT.NET.SECR,200
+Ghana,GHA,2014,Secure Internet servers,IT.NET.SECR,148
+Ghana,GHA,2013,Secure Internet servers,IT.NET.SECR,113
+Ghana,GHA,2012,Secure Internet servers,IT.NET.SECR,70
+Ghana,GHA,2011,Secure Internet servers,IT.NET.SECR,33
+Ghana,GHA,2010,Secure Internet servers,IT.NET.SECR,22
+Ghana,GHA,2020,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,57.3641080482496
+Ghana,GHA,2019,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,43.429585858134
+Ghana,GHA,2018,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,21.0232110178729
+Ghana,GHA,2017,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,90.7939981461348
+Ghana,GHA,2016,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,93.4212523976627
+Ghana,GHA,2015,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,6.92738119809681
+Ghana,GHA,2014,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,5.24890484083086
+Ghana,GHA,2013,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,4.10526972403178
+Ghana,GHA,2012,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,2.60622585657522
+Ghana,GHA,2011,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,1.25925644112532
+Ghana,GHA,2010,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,0.860224505301505
+Ghana,GHA,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,68.2
+Ghana,GHA,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,56.68215981
+Ghana,GHA,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,45.00963073
+Ghana,GHA,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,43
+Ghana,GHA,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,37.88415262
+Ghana,GHA,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,28
+Ghana,GHA,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,23
+Ghana,GHA,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,19
+Ghana,GHA,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,15
+Ghana,GHA,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,10.6
+Ghana,GHA,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,9
+Ghana,GHA,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.8
+Ghana,GHA,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,5.44
+Ghana,GHA,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.27
+Ghana,GHA,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.85
+Ghana,GHA,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.723175973
+Ghana,GHA,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.831197461
+Ghana,GHA,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.716797704
+Ghana,GHA,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.193057911
+Ghana,GHA,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.830284034
+Ghana,GHA,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.20000806
+Ghana,GHA,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.153615298
+Ghana,GHA,1999,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.104895466
+Ghana,GHA,1998,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.032240443
+Ghana,GHA,1997,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.027537542
+Ghana,GHA,1996,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.005648763
+Ghana,GHA,1995,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.000347918
+Ghana,GHA,1994,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Ghana,GHA,1993,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Ghana,GHA,1992,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Ghana,GHA,1991,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Ghana,GHA,1990,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Ghana,GHA,2019,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.4731967993
+Ghana,GHA,2018,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.3914333251
+Ghana,GHA,2017,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.5063449827
+Ghana,GHA,2016,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.4959510618
+Ghana,GHA,2015,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.242675331
+Ghana,GHA,2014,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.8575870232
+Ghana,GHA,2013,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,3.7740956463
+Ghana,GHA,2012,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,4.5508051629
+Ghana,GHA,2011,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,5.7071199425
+Ghana,GHA,2010,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.125017545
+Ghana,GHA,2009,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,4.566635172
+Ghana,GHA,2008,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,6.3662522344
+Ghana,GHA,2007,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,4.937927562
+Ghana,GHA,2006,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,5.4105352979
+Ghana,GHA,2005,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,4.8090992122
+Ghana,GHA,2003,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,3.6444970707
+Ghana,GHA,2002,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.288986148
+Ghana,GHA,2001,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.2320082593
+Ghana,GHA,2000,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.6792188336
+Ghana,GHA,2019,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0224685482
+Ghana,GHA,2018,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.2562384601
+Ghana,GHA,2017,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0240859672
+Ghana,GHA,2016,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0915807099
+Ghana,GHA,2015,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.2225643304
+Ghana,GHA,2014,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.1206457328
+Ghana,GHA,2013,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.1899441326
+Ghana,GHA,2012,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0597655669
+Ghana,GHA,2011,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0493834161
+Ghana,GHA,2010,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0184634364
+Ghana,GHA,2009,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0324198047
+Ghana,GHA,2008,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0400482841
+Ghana,GHA,2007,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0203899379
+Ghana,GHA,2006,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0033795577
+Ghana,GHA,2005,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0167331022
+Ghana,GHA,2003,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0122425296
+Ghana,GHA,2001,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0323829211
+Ghana,GHA,2000,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.1431024967
+Ghana,GHA,2009,Road density (km of road per 100 sq. km of land area),IS.ROD.DNST.K2,46
+Ghana,GHA,2008,Road density (km of road per 100 sq. km of land area),IS.ROD.DNST.K2,51
+Ghana,GHA,2005,Road density (km of road per 100 sq. km of land area),IS.ROD.DNST.K2,24
+Ghana,GHA,2004,Road density (km of road per 100 sq. km of land area),IS.ROD.DNST.K2,23
+Ghana,GHA,2003,Road density (km of road per 100 sq. km of land area),IS.ROD.DNST.K2,20
+Ghana,GHA,2009,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,12.6
+Ghana,GHA,2008,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,16.1
+Ghana,GHA,2005,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,14.9
+Ghana,GHA,2003,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,17.9200000762939
+Ghana,GHA,2001,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,18.3999996185303
+Ghana,GHA,2000,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,29.6000003814697
+Ghana,GHA,1999,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,29.6000003814697
+Ghana,GHA,1996,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,24.1000003814697
+Ghana,GHA,1995,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,24.8999996185303
+Ghana,GHA,1994,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,24.3999996185303
+Ghana,GHA,1993,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,23.8999996185303
+Ghana,GHA,1992,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,23.5
+Ghana,GHA,1991,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,23
+Ghana,GHA,1990,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,19.6000003814697
+Ghana,GHA,2009,"Roads, total network (km)",IS.ROD.TOTL.KM,109515
+Ghana,GHA,2008,"Roads, total network (km)",IS.ROD.TOTL.KM,120818
+Ghana,GHA,2005,"Roads, total network (km)",IS.ROD.TOTL.KM,57614
+Ghana,GHA,2004,"Roads, total network (km)",IS.ROD.TOTL.KM,54311
+Ghana,GHA,2003,"Roads, total network (km)",IS.ROD.TOTL.KM,47787
+Ghana,GHA,2000,"Roads, total network (km)",IS.ROD.TOTL.KM,39409
+Ghana,GHA,1999,"Roads, total network (km)",IS.ROD.TOTL.KM,39409
+Ghana,GHA,1996,"Roads, total network (km)",IS.ROD.TOTL.KM,37800
+Ghana,GHA,1995,"Roads, total network (km)",IS.ROD.TOTL.KM,37600
+Ghana,GHA,1994,"Roads, total network (km)",IS.ROD.TOTL.KM,37400
+Ghana,GHA,1993,"Roads, total network (km)",IS.ROD.TOTL.KM,37200
+Ghana,GHA,1992,"Roads, total network (km)",IS.ROD.TOTL.KM,37000
+Ghana,GHA,1991,"Roads, total network (km)",IS.ROD.TOTL.KM,36670
+Ghana,GHA,1990,"Roads, total network (km)",IS.ROD.TOTL.KM,38145
+Ghana,GHA,2009,"Motor vehicles (per 1,000 people)",IS.VEH.NVEH.P3,30
+Ghana,GHA,2008,"Motor vehicles (per 1,000 people)",IS.VEH.NVEH.P3,28
+Ghana,GHA,2007,"Motor vehicles (per 1,000 people)",IS.VEH.NVEH.P3,34
+Ghana,GHA,2006,"Motor vehicles (per 1,000 people)",IS.VEH.NVEH.P3,18
+Ghana,GHA,2005,"Motor vehicles (per 1,000 people)",IS.VEH.NVEH.P3,16
+Ghana,GHA,2003,"Motor vehicles (per 1,000 people)",IS.VEH.NVEH.P3,21
+Ghana,GHA,2009,"Passenger cars (per 1,000 people)",IS.VEH.PCAR.P3,18.4386536691443
+Ghana,GHA,2008,"Passenger cars (per 1,000 people)",IS.VEH.PCAR.P3,18
+Ghana,GHA,2007,"Passenger cars (per 1,000 people)",IS.VEH.PCAR.P3,21
+Ghana,GHA,2006,"Passenger cars (per 1,000 people)",IS.VEH.PCAR.P3,12
+Ghana,GHA,2005,"Passenger cars (per 1,000 people)",IS.VEH.PCAR.P3,11
+Ghana,GHA,2008,Vehicles (per km of road),IS.VEH.ROAD.K1,5
+Ghana,GHA,2007,Vehicles (per km of road),IS.VEH.ROAD.K1,13
+Ghana,GHA,2005,Vehicles (per km of road),IS.VEH.ROAD.K1,6
+Ghana,GHA,2003,Vehicles (per km of road),IS.VEH.ROAD.K1,9
+Ghana,GHA,2011,International Internet bandwidth (Mbps),IT.NET.BNDW,792
+Ghana,GHA,2010,International Internet bandwidth (Mbps),IT.NET.BNDW,170
+Ghana,GHA,2009,International Internet bandwidth (Mbps),IT.NET.BNDW,106
+Ghana,GHA,2008,International Internet bandwidth (Mbps),IT.NET.BNDW,2015
+Ghana,GHA,2007,International Internet bandwidth (Mbps),IT.NET.BNDW,497
+Ghana,GHA,2006,International Internet bandwidth (Mbps),IT.NET.BNDW,330
+Ghana,GHA,2005,International Internet bandwidth (Mbps),IT.NET.BNDW,168
+Ghana,GHA,2003,International Internet bandwidth (Mbps),IT.NET.BNDW,28.9
+Ghana,GHA,2002,International Internet bandwidth (Mbps),IT.NET.BNDW,12
+Ghana,GHA,2001,International Internet bandwidth (Mbps),IT.NET.BNDW,4.096
+Ghana,GHA,2011,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,31.7233772771537
+Ghana,GHA,2010,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,6.96954877050395
+Ghana,GHA,2009,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,4.44921975376339
+Ghana,GHA,2008,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,86.6138564288716
+Ghana,GHA,2007,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,21.8823168997133
+Ghana,GHA,2006,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,14.8846064122163
+Ghana,GHA,2005,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,7.76347070763943
+Ghana,GHA,2003,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,1.40217090017965
+Ghana,GHA,2002,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,0.596588676120509
+Ghana,GHA,2001,International Internet bandwidth (bits per second per person),IT.NET.BNDW.PC,0.208636140557394
+Ghana,GHA,2011,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,1370902795
+Ghana,GHA,2010,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,1096722236
+Ghana,GHA,2009,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,902326239
+Ghana,GHA,2002,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,471186000000
+Ghana,GHA,2001,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,269236000000
+Ghana,GHA,1999,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,231630000000
+Ghana,GHA,1998,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,55447868000
+Ghana,GHA,1997,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,84647709000
+Ghana,GHA,1996,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,11986501656
+Ghana,GHA,1991,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,3159000000
+Ghana,GHA,1990,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,2017879000
+Ghana,GHA,1989,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,958518000
+Ghana,GHA,1988,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,654006000
+Ghana,GHA,1987,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,1559959000
+Ghana,GHA,1986,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,3442000000
+Ghana,GHA,1984,Annual investment in telecommunications (current LCU),IT.TEL.INVS.CN,28329000
+Ghana,GHA,2011,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,80.3956676120976
+Ghana,GHA,2010,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,65.474231692618
+Ghana,GHA,2009,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,54.5890235230154
+Ghana,GHA,2002,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,46.4222660098522
+Ghana,GHA,2001,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,29.5183840297513
+Ghana,GHA,1999,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,51.1834077635792
+Ghana,GHA,1998,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,17.3296791151366
+Ghana,GHA,1997,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,31.0606438332037
+Ghana,GHA,1996,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,7.32760829930309
+Ghana,GHA,1991,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,17.2934800459846
+Ghana,GHA,1990,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,15.8202975254806
+Ghana,GHA,1989,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,11.9069303764299
+Ghana,GHA,1988,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,10.5811779906642
+Ghana,GHA,1987,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,85.125554937164
+Ghana,GHA,1986,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,359.243316763414
+Ghana,GHA,1984,Annual investment in telecommunications (% of revenue),IT.TEL.INVS.RV.ZS,10.8953501788393
+Ghana,GHA,2011,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,1705194864
+Ghana,GHA,2010,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,1675044071
+Ghana,GHA,2009,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,1652944458
+Ghana,GHA,2002,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,1015000000000
+Ghana,GHA,2001,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,912096000000
+Ghana,GHA,2000,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,486546000000
+Ghana,GHA,1999,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,452549000000
+Ghana,GHA,1998,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,319959000000
+Ghana,GHA,1997,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,272524000000
+Ghana,GHA,1996,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,163580000000
+Ghana,GHA,1995,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,78000000000
+Ghana,GHA,1994,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,58882195000
+Ghana,GHA,1993,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,31068183000
+Ghana,GHA,1992,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,22947100000
+Ghana,GHA,1991,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,18267000000
+Ghana,GHA,1990,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,12755000320
+Ghana,GHA,1989,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,8050084864
+Ghana,GHA,1988,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,6180843008
+Ghana,GHA,1987,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,1832539008
+Ghana,GHA,1986,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,958124992
+Ghana,GHA,1985,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,606200000
+Ghana,GHA,1984,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,260010000
+Ghana,GHA,1983,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,157300000
+Ghana,GHA,1982,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,72100000
+Ghana,GHA,1981,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,72600000
+Ghana,GHA,1980,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,67400000
+Ghana,GHA,1979,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,41490000
+Ghana,GHA,1978,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,24310000
+Ghana,GHA,1977,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,17030000
+Ghana,GHA,1976,Revenue from all telecommunication services (current LCU),IT.TEL.REVN.CN,17590000
+Ghana,GHA,2011,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,2.87728615010799
+Ghana,GHA,2010,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,3.63799941576353
+Ghana,GHA,2009,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,4.51641897425805
+Ghana,GHA,2002,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,20772.7886701322
+Ghana,GHA,2001,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,23957.9519157778
+Ghana,GHA,2000,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,17919.01298223
+Ghana,GHA,1999,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,21989.9610297476
+Ghana,GHA,1998,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,18499.0171137835
+Ghana,GHA,1997,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,19309.592302351
+Ghana,GHA,1996,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,14426.6979459726
+Ghana,GHA,1995,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,10062.3089128836
+Ghana,GHA,1994,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,11312.6215177714
+Ghana,GHA,1993,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,8023.60037189122
+Ghana,GHA,1992,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,8186.98626870993
+Ghana,GHA,1991,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,7524.93441890304
+Ghana,GHA,1990,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,6640.4923879907
+Ghana,GHA,1989,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,5680.21814026718
+Ghana,GHA,1988,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,5879.81976585116
+Ghana,GHA,1987,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,2456.48652835086
+Ghana,GHA,1986,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,1873.55904669066
+Ghana,GHA,1985,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,1767.0996716096
+Ghana,GHA,1984,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,961.00324358398
+Ghana,GHA,1983,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,854.714793711885
+Ghana,GHA,1982,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,833.998417266167
+Ghana,GHA,1981,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,999.641946870553
+Ghana,GHA,1980,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,1572.8554187121
+Ghana,GHA,1979,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,1470.12973273461
+Ghana,GHA,1978,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,1158.38580458566
+Ghana,GHA,1977,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,1525.52087241342
+Ghana,GHA,1976,Revenue from all telecommunication services (% GDP),IT.TEL.REVN.GD.ZS,2695.28983443591
+Ghana,GHA,2011,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,21450564
+Ghana,GHA,2010,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,17714846
+Ghana,GHA,2009,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,15376305
+Ghana,GHA,2008,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,11714330
+Ghana,GHA,2007,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,7980562
+Ghana,GHA,2006,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,5563597
+Ghana,GHA,2005,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,3196086
+Ghana,GHA,2004,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,2008326
+Ghana,GHA,2003,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,1086559
+Ghana,GHA,2002,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,661814
+Ghana,GHA,2001,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,488429
+Ghana,GHA,2000,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,342593
+Ghana,GHA,1999,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,230724
+Ghana,GHA,1998,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,175179
+Ghana,GHA,1997,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,127400
+Ghana,GHA,1996,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,90652
+Ghana,GHA,1995,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,69267
+Ghana,GHA,1994,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,53343
+Ghana,GHA,1993,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,50423
+Ghana,GHA,1992,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,48161
+Ghana,GHA,1991,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,46613
+Ghana,GHA,1990,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,44243
+Ghana,GHA,1989,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,43021
+Ghana,GHA,1988,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,40442
+Ghana,GHA,1987,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,39610
+Ghana,GHA,1986,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,38472
+Ghana,GHA,1985,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,38240
+Ghana,GHA,1984,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,38104
+Ghana,GHA,1983,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,37129
+Ghana,GHA,1982,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,37151
+Ghana,GHA,1981,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,37103
+Ghana,GHA,1980,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,37694
+Ghana,GHA,1979,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,36406
+Ghana,GHA,1978,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,35396
+Ghana,GHA,1977,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,33839
+Ghana,GHA,1976,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,32979
+Ghana,GHA,1975,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,31259
+Ghana,GHA,1970,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,23400
+Ghana,GHA,1965,Mobile and fixed-line telephone subscribers,IT.TEL.TOTL,17300
+Ghana,GHA,2011,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,85.9197392146125
+Ghana,GHA,2010,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,72.6261665640982
+Ghana,GHA,2009,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,64.5401508923498
+Ghana,GHA,2008,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,50.3535134878622
+Ghana,GHA,2007,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,35.1374621170644
+Ghana,GHA,2006,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,25.0945307821779
+Ghana,GHA,2005,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,14.7694762143431
+Ghana,GHA,2004,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,9.50915938992357
+Ghana,GHA,2003,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,5.27176958867923
+Ghana,GHA,2002,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,3.29025615081682
+Ghana,GHA,2001,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,2.48788919668719
+Ghana,GHA,2000,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,1.78755147924733
+Ghana,GHA,1999,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,1.23278475220452
+Ghana,GHA,1998,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.958251283715603
+Ghana,GHA,1997,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.713515632657062
+Ghana,GHA,1996,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.520115399385021
+Ghana,GHA,1995,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.407527230993462
+Ghana,GHA,1994,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.322219675134575
+Ghana,GHA,1993,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.313079343940971
+Ghana,GHA,1992,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.307623088038609
+Ghana,GHA,1991,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.306339330761633
+Ghana,GHA,1990,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.299072256135585
+Ghana,GHA,1989,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.298910156657381
+Ghana,GHA,1988,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.288645645823756
+Ghana,GHA,1987,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.290423403741762
+Ghana,GHA,1986,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.290093545215029
+Ghana,GHA,1985,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.297079738796679
+Ghana,GHA,1984,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.305754669751817
+Ghana,GHA,1983,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.308389030490305
+Ghana,GHA,1982,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.319586027231954
+Ghana,GHA,1981,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.329921544598007
+Ghana,GHA,1980,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.345097571041906
+Ghana,GHA,1979,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.341380649645332
+Ghana,GHA,1978,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.338349339671059
+Ghana,GHA,1977,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.328830502690193
+Ghana,GHA,1976,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.325910427453677
+Ghana,GHA,1975,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.315026319043587
+Ghana,GHA,1970,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.269528801456101
+Ghana,GHA,1965,Mobile and fixed-line telephone subscribers (per 100 people),IT.TEL.TOTL.P2,0.221572021473275
+Ghana,GHA,2009,Households with television (%),IT.TVS.HOUS.ZS,47.4
+Ghana,GHA,2008,Households with television (%),IT.TVS.HOUS.ZS,42.9
+Ghana,GHA,2007,Households with television (%),IT.TVS.HOUS.ZS,38.8
+Ghana,GHA,2006,Households with television (%),IT.TVS.HOUS.ZS,35.1
+Ghana,GHA,2005,Households with television (%),IT.TVS.HOUS.ZS,31.77
+Ghana,GHA,2004,Households with television (%),IT.TVS.HOUS.ZS,28.74
+Ghana,GHA,2003,Households with television (%),IT.TVS.HOUS.ZS,26
+Ghana,GHA,2002,Households with television (%),IT.TVS.HOUS.ZS,24.02
+Ghana,GHA,1997,Households with television (%),IT.TVS.HOUS.ZS,16.2
+Ghana,GHA,2008,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.06094829680665
+Ghana,GHA,2005,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.586761863889401
+Ghana,GHA,2004,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.526505732354666
+Ghana,GHA,2003,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.462643935877743
+Ghana,GHA,2002,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.405010653508891
+Ghana,GHA,2001,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.354306094550732
+Ghana,GHA,2000,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.311221786188973
+Ghana,GHA,1999,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.265782722942933
+Ghana,GHA,1998,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.217898676679547
+Ghana,GHA,1997,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.167513680981921
+Ghana,GHA,1996,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.143163955484943
+Ghana,GHA,1995,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.117549858919598
+Ghana,GHA,1994,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.0905705546432082
+Ghana,GHA,1993,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.0620857136737265
+Ghana,GHA,1992,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.0319420729229859
+Ghana,GHA,1991,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.0098636404316408
+Ghana,GHA,1990,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.00492781662457151
+Ghana,GHA,1989,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.00394331381880682
+Ghana,GHA,1988,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.00273176204674798
+Ghana,GHA,1987,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.00164551102746963
+Ghana,GHA,1986,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.00125333872344944
+Ghana,GHA,1985,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.000594511113563904
+Ghana,GHA,1984,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.00010479087771227
+Ghana,GHA,1983,Personal computers (per 100 people),IT.CMP.PCMP.P2,3.32403296609694e-05
